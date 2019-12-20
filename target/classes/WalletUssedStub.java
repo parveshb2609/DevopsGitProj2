@@ -5,7 +5,7 @@ public class WalletUssedStub {
 		
 		System.out.println("connecting with wallet ");
 		System.out.print("Test branching");
-		System.out.print("Test branchingdfs");
+		System.out.print("Test branchingdfs
 	}
 
 }
